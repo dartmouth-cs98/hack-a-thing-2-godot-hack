@@ -1,0 +1,6 @@
+dodge_assets/
+Base\ pack/
+
+
+# Godot-specific ignores
+.import/
