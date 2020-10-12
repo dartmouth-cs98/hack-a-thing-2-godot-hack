@@ -1,11 +1,11 @@
-# Hack-A-Thing-2
-Repository for 2nd hack-a-thing, CS98
+# Godot3 Space Game Tutorial
 
-The Goal of this Hack-a-thing was to try a new game engine and see how well the 2D multiplayer worked on it.
+It is a project that serves as a demonstration of Godot's capabilities in multi-player games.
 
-I chose to explore Godot as an option. First, I had to learn about the game engine itself and how it worked.
-I read through some of the documentation like this page: https://docs.godotengine.org/en/stable/getting_started/step_by_step/scenes_and_nodes.html
+This is a rather classic spaceship game, excellent for learning how to make your own multi-player game.
+As an extra bonus, there is an implementation of a latency compensation method based on linear interpolation to smooth movements and prevent jumps.
 
-After reading a bit about the engine, I tried to create my first game by following this tutorial: https://docs.godotengine.org/en/stable/getting_started/step_by_step/your_first_game.html
+![Image of gameplay](https://shadebob.org/godot3-spacegame/screenshots/screenshot_small.png)
 
-After finishing the above tutorial, I decided that I wanted to make something a bit more complex, so I looked up more tutorials and came accross this one: https://www.youtube.com/watch?v=QftpPI5iYrY
+Video of gameplay: (No sound, only video)
+https://www.youtube.com/watch?v=XF2CTlWaGkQ
