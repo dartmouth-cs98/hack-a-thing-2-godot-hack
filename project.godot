@@ -19,6 +19,10 @@ config/name="Hack- A- Thing- 2"
 run/main_scene="res://MainScene.tscn"
 config/icon="res://icon.png"
 
+[autoload]
+
+Network="*res://Network.gd"
+
 [input]
 
 move_left={
